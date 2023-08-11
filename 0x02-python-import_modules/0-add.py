@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def add(a, b):
     return a + b
-from 0-add import add
+from add_0 import add
 
 def main():
     a = 1
