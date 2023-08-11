@@ -2,7 +2,7 @@
 
 if __name__ == "__main__":
     """Arithmetic operations."""
-    from calculator_1 import add, subract, multiply, divide 
+    from calculator_1 import add, subract, multiply, divide
     import sys
 
     if len(sys.argv) - 1 != 3:
